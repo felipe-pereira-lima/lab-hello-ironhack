@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from ''./logo.svg';'
+import logo from './logo.svg';
 import ironhackLogo from './images/ironhack-logo.svg';
 import menu from './menu-top.svg';
 
